@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+We made the Repo
 
-Things you may want to cover:
+added Gems
 
-* Ruby version
+Added Devise
 
-* System dependencies
+   image: 'https://images1.apartments.com/i2/3-d6aIBQ3G60q9rMK834i2RTrIMD8b5zCH5GIZy0nFQ/111/vive-luxe-san-diego-ca-building-photo.jpg'  
 
-* Configuration
+        image: 'https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fDI3MDAlMjBzcSUyMGZ0JTIwYXBhcnRtZW50cyUyMHJvb21zfGVufDB8fDB8fHww'  
 
-* Database creation
+          image: 'https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fDI3MDAlMjBzcSUyMGZ0JTIwYXBhcnRtZW50cyUyMHJvb21zfGVufDB8fDB8fHww' 
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+            image: 'https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fDI3MDAlMjBzcSUyMGZ0JTIwYXBhcnRtZW50cyUyMHJvb21zfGVufDB8fDB8fHww' 
