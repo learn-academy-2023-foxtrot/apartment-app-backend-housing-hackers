@@ -420,3 +420,15 @@ end
           image: 'https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fDI3MDAlMjBzcSUyMGZ0JTIwYXBhcnRtZW50cyUyMHJvb21zfGVufDB8fDB8fHww' 
 
             image: 'https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fDI3MDAlMjBzcSUyMGZ0JTIwYXBhcnRtZW50cyUyMHJvb21zfGVufDB8fDB8fHww' 
+
+           
+
+
+
+key issues:
+$ run bundle(depends on driver)
+$ rails db:setuo
+$ EDITOR="code --wait" bin/rails credentials:edit
+vs code will ask to access yml credentials, enter "yes"
+$ ctrl + c
+$ restart vs code 
