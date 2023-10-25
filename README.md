@@ -421,7 +421,17 @@ end
 
             image: 'https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fDI3MDAlMjBzcSUyMGZ0JTIwYXBhcnRtZW50cyUyMHJvb21zfGVufDB8fDB8fHww' 
 
-           
+
+Create Functionality:
+  Added the strong params
+  Created the API Endpoints
+  Made the Create functionality test
+  
+ 
+
+
+
+
 
 
 
